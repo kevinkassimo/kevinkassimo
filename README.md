@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 This is Kevin Qian
+
+- My last name is pronounced as "Chien" (IPA: tɕʰæn^2)
+- I'm a graduate student at Stanford. Had my BS in CS at UCLA
+- I've been working on [Deno](https://github.com/denoland/deno) for 2 years (Yep, almost from day 1 of the project)
+- I love discussing about tech stuff, feel free to ping me
+- I'm an amateur violinist and composer. Here are some of [my pieces](https://www.youtube.com/channel/UCr12aWBV7lAZN1d9t9RvZOQ)
+
 
 <!--
 **kevinkassimo/kevinkassimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
