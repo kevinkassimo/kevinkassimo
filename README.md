@@ -6,6 +6,8 @@
 - I love discussing about tech stuff, feel free to ping me
 - I'm an amateur violinist and composer. Here are some of [my pieces](https://www.youtube.com/channel/UCr12aWBV7lAZN1d9t9RvZOQ)
 
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevinkassimo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kevinkassimo/kevinkassimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
